@@ -2,10 +2,9 @@
 Nielsen Norman Group available at: https://media.nngroup.com/media/articles/attachments/Heuristic_Evaluation_Workbook_-_Nielsen_Norman_Group.pdf
 -->
 
-**Evaluator**: ...
-**Date**: ...
-**Product**: ...
-
+**Evaluator**: [Evaluator Name]
+**Date**: [DD-MM-AAAA]
+**Product**: [SuperMaxiApp]
 
 Severity Scale adopted: [[Adopted Severity Scale for the Heuristic Evaluation]]
 Summary of each usability heuristic: [here](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf)
