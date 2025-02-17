@@ -28,3 +28,7 @@
 
 
 ## C.2. Non-functional requirements
+
+
+---
+[Back to main Logbook Page](../HCI%20Logbook.md)

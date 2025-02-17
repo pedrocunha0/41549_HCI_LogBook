@@ -5,18 +5,18 @@ Work carried out by:
 
 -->
 
-# [[A. Stage 0 - Planning and Problem Identification]]
+# [A. Stage 0 - Planning and Problem Identification](stage0_planning/a_stage_0_planning_problem_identification.md)
  > 	This stage corresponds to week 1
 
 <!-- For this stage you will need to read this:-->
 
 
-# [[B. Stage 1 - Context Definition]]
+# [B. Stage 1 - Context Definition](stage1_context/b_stage_1_context_definition.md)
 > 	This stage spans weeks 2 and 3.
 
 
  
-# [[C. Stage 2 - Requirement definition]]
+# [C. Stage 2 - Requirement Analysis](stage2_requirements/c_stage_2_requirement_definition.md)
 >	This stage corresponds to weeks 3 and 4, running in parallel with Stage 1, in week 3
 <!-- Based on the context definition and the devised scenarios, specify the requirements -->
 

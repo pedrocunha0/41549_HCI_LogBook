@@ -1,4 +1,4 @@
-
+[Back to main Logbook Page](../HCI%20Logbook.md)
 
 # B.1. Competitor Identification
 >	The competitor analysis will entail an identification of all competitors, with brief descriptions and a collection of the look and feel of their solutions, e.g., with screenshots, etc. It will also include a detailed analysis of the competitor deemed the best or more representative.
@@ -124,4 +124,7 @@ Task: [This is the task]
 1. Create a new markdown file under `interviews/` with the naming convention:
 
 
+
+---
+[Back to main Logbook Page](../HCI%20Logbook.md)
 
