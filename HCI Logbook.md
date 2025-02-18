@@ -24,17 +24,17 @@ Work carried out by:
 
 
 ---
-# [[P1 - First Assignment Presentation]]
+# [P1 - First Assignment Presentation](presentation_1/p1_first_assignment_presentation.md)
 >	Presentations will take place in weeks 5 and 6
 ---
 
-# [[D. Stage 3 - Low-Fidelity Prototype and Evaluation]]
+# [D. Stage 3 - Low-Fidelity Prototype and Evaluation](stage_3_low_fidelity/d_stage_3_low-fidelity_prototype_and_evaluation.md)
 
 
 
 
 
-# [[E. Stage 4 - Functional Prototype and Evaluation]]
+# [E. Stage 4 - Functional Prototype and Evaluation](stage4_functional_prototype/e_stage_4_functional_prototype_and_evaluation.md)
 
 
 
@@ -42,18 +42,18 @@ Work carried out by:
 
 
 
-# [[F. Stage 5 - Reporting, Discussion, Solution Refinement]]
+# [F. Stage 5 - Reporting, Discussion, Solution Refinement](stage5_discussion_and_refinement/f_stage_5_reporting_discussion_refinement.md)
 
 
 
-# [[G. Stage 6 - Critical Analysis]]
+# [G. Stage 6 - Critical Analysis](stage6_critical_analysis/g_stage_6_critical_analysis.md)
 >	This should be done before the presentation and entails a critical analysis over the whole work that was performed, what were the strong points and what could have been done better.
 
 
 
 
 ---
-# [[P2 - Second Assignment Presentation]]
+# [P2 - Second Assignment Presentation](presentation_2/p2__second_assignment_presentation.md)
 >	Final Presentations of the project will take place in weeks 13 and 14
 
 
