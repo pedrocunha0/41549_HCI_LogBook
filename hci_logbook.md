@@ -1,9 +1,13 @@
+
+
 <!-- 
 This markdown document will contain all information and decisions concerning the HCI project for
 < The Title of the Project Here >
 Work carried out by:
 
 -->
+# *HCI Project Logbook*
+
 
 # [A. Stage 0 - Planning and Problem Identification](stage0_planning/a_stage_0_planning_problem_identification.md)
  > 	This stage corresponds to week 1
@@ -37,8 +41,6 @@ Work carried out by:
 # [E. Stage 4 - Functional Prototype and Evaluation](stage4_functional_prototype/e_stage_4_functional_prototype_and_evaluation.md)
 
 
-
-## 
 
 
 

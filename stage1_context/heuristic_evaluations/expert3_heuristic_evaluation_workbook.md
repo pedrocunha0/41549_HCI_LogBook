@@ -6,8 +6,9 @@ Nielsen Norman Group available at: https://media.nngroup.com/media/articles/atta
 **Date**: [DD-MM-AAAA]
 **Product**: [SuperMaxiApp]
 
+---
 
-Severity Scale adopted: [[Adopted Severity Scale for the Heuristic Evaluation]]
+Severity Scale adopted: [[severity_scale_heuristic_evaluation]]
 Summary of each usability heuristic: [here](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf)
 
 # 1 Visibility of System Status

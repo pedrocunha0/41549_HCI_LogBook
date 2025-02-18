@@ -1,4 +1,8 @@
-[Back to main Logbook Page](../HCI%20Logbook.md)
+[Back to main Logbook Page](../hci_logbook.md)
+
+---
+# B. Stage 1 - Context Definition
+
 
 # B.1. Competitor Identification
 >	The competitor analysis will entail an identification of all competitors, with brief descriptions and a collection of the look and feel of their solutions, e.g., with screenshots, etc. It will also include a detailed analysis of the competitor deemed the best or more representative.
@@ -30,11 +34,11 @@
 #### Individual Evaluations
 
 
-- [[Heuristic Evaluation Workbook - Expert 1]]
+- [expert1_heuristic_evaluation_workbook](heuristic_evaluations/expert1_heuristic_evaluation_workbook.md)
 
-- [[Heuristic Evaluation Workbook - Expert 2]]
+- [expert2_heuristic_evaluation_workbook](heuristic_evaluations/expert2_heuristic_evaluation_workbook.md)
 
-- [[Heuristic Evaluation Workbook - Expert 3]]
+- [expert3_heuristic_evaluation_workbook](heuristic_evaluations/expert3_heuristic_evaluation_workbook.md)
 
 
 #### Consensus
@@ -126,5 +130,6 @@ Task: [This is the task]
 
 
 ---
-[Back to main Logbook Page](../HCI%20Logbook.md)
+[Back to main Logbook Page](../hci_logbook.md)
 
+---

@@ -1,3 +1,6 @@
+
+# Severity Scale for the Heuristic Evaluations
+
 > ### *Severity Scale to adopt:*
 > Consider a combination of three factors:
 > - The frequency with which the problem occurs;

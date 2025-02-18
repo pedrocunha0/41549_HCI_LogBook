@@ -12,4 +12,4 @@
 # The problem
 
 
-[Back to main Logbook Page](../HCI%20Logbook.md)
+[Back to main Logbook Page](hci_logbook.md)
