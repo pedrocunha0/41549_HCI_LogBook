@@ -1,5 +1,3 @@
-
-
 <!-- 
 This markdown document will contain all information and decisions concerning the HCI project for
 < The Title of the Project Here >
@@ -8,23 +6,27 @@ Work carried out by:
 -->
 # *HCI Project Logbook*
 
+**Title of the project**: [Title goes here]
+**Team:**
+- Student 1: [Name and Number] 
+- Student 2; [Name and Number]
+- Student 3: [Name and Number]
 
+---
 # [A. Stage 0 - Planning and Problem Identification](stage0_planning/a_stage_0_planning_problem_identification.md)
- > 	This stage corresponds to week 1
+ > 	This stage corresponds to week 1. Describe the overall rationale that leads to choosing the project idea
 
 <!-- For this stage you will need to read this:-->
 
 
 # [B. Stage 1 - Context Definition](stage1_context/b_stage_1_context_definition.md)
-> 	This stage spans weeks 2 and 3.
+> 	This stage spans weeks 2 and 3. It entails identifying competitors, analyse the most representative using heuristic evaluation and cognitive walkthrough, and understand how users currently approach the problem and their expectations and needs.
 
 
  
 # [C. Stage 2 - Requirement Analysis](stage2_requirements/c_stage_2_requirement_definition.md)
->	This stage corresponds to weeks 3 and 4, running in parallel with Stage 1, in week 3
+>	This stage corresponds to weeks 3 and 4, running in parallel with Stage 1, in week 3. After having the context, the obtained information is gathered in Personas and scenarios are built describing the vision for the new solution. Finally, requirements are defined.
 <!-- Based on the context definition and the devised scenarios, specify the requirements -->
-
-
 
 
 ---
@@ -32,19 +34,20 @@ Work carried out by:
 >	Presentations will take place in weeks 5 and 6
 ---
 
-# [D. Stage 3 - Low-Fidelity Prototype and Evaluation](stage_3_low_fidelity/d_stage_3_low-fidelity_prototype_and_evaluation.md)
-
+# [D. Stage 3 - Low-Fidelity Prototype and Evaluation](stage3_low_fidelity/d_stage_3_low-fidelity_prototype_and_evaluation.md)
+>	The low-fidelity prototype stage spans weeks 7 and 8. Based on the scenarios and requirements a low fidelity prototype is designed and evaluated adopting a formative evaluation approach
 
 
 
 
 # [E. Stage 4 - Functional Prototype and Evaluation](stage4_functional_prototype/e_stage_4_functional_prototype_and_evaluation.md)
+>	Weeks 9, 10, and 11. During this stage, and incorporating the feedback from the evaluation performed in stage D, a functional prototype is developed and evaluated.
 
 
 
 
-
-# [F. Stage 5 - Reporting, Discussion, Solution Refinement](stage5_discussion_and_refinement/f_stage_5_reporting_discussion_refinement.md)
+# [F. Stage 5 - Discussion and Solution Refinement](stage5_discussion_and_refinement/f_stage_5_reporting_discussion_refinement.md)
+>	Week 12. Stage 5 concerns gathering all the data from the evaluation, discuss the findings, perform some refinement to the functional prototype and, if needed, additional evaluation.
 
 
 

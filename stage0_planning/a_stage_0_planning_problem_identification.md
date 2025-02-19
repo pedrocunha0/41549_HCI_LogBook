@@ -1,3 +1,6 @@
+[Back to main Logbook Page](../hci_logbook.md)
+
+---
 
 
 # A. Stage 0 - Planning and Problem Identification
