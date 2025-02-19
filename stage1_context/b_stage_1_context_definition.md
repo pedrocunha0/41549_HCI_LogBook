@@ -124,8 +124,6 @@ Task: [This is the task]
 	- Feature 1
 	- Feature 2
 - --- 
-### How to Add a New Interview 
-1. Create a new markdown file under `interviews/` with the naming convention:
 
 
 
