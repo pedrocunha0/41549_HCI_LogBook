@@ -12,11 +12,10 @@
 ## B.1a. Competitors
 
 
-| **Competitor**    | **Description**                             | Information repository              |
-| ----------------- | ------------------------------------------- | ----------------------------------- |
-| [Amazon Shoes]    | [Online platform selling shoe laces]        | [[Competitor Analysis AmazonShoes]] |
-| [Fnac Atacadores] | [Smartphone app to buy and sell shoe laces] |                                     |
-| ...               |                                             |                                     |
+| **Competitor**    | **Description**                                                                                      | Information repository                                             |
+| ----------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| RemNote           | A note-taking app with spaced repetition and bi-directional linking for efficient learning.		   | [RemNote Information](competitors/Competitor_Analysis_RemNote.md)  |
+| Obsidian          | A Markdown-based tool for networked note-taking, with a focus on customization and knowledge graphs. | [Obsidian Information](competitors/Competitor_Analysis_Obsidian.md)|
 
 
 
@@ -28,7 +27,7 @@
 ### - Heuristic Evaluation
 
 #### Method
-[ Describe the method used for the heuristic evaluation: procedure, number of experts, heuristics, severity scale considered, how was consensus done.]
+<!--[ Describe the method used for the heuristic evaluation: procedure, number of experts, heuristics, severity scale considered, how was consensus done.]-->
 
 
 #### Individual Evaluations
