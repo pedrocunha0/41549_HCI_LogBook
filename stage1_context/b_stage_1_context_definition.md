@@ -56,42 +56,51 @@
 ### - Cognitive Walkthrough
 
 #### Method
-[Briefly described  the method you used for the Cognitive Walkthrough analysis. ]
+<!-- [Briefly described  the method you used for the Cognitive Walkthrough analysis. ] -->
+>   We conducted a Streamlined Cognitive Walkthrough analysis  
+>   1. Identify tasks
+>   2. Perform task analysis
 
 #### Task Selection and Task Analysis
 
-[Which tasks did you select and why. What are the subtasks entailed for each ]
+<!-- [Which tasks did you select and why. What are the subtasks entailed for each ] -->
 
 
-| Task                        | Subtasks                               |
-| --------------------------- | -------------------------------------- |
-| **1. Buyng a grammar book** | Search for available grammar books     |
-|                             | Identify a specific book from the list |
-|                             | Add the selected book to the cart      |
-|                             | Proceeed to checkout                   |
+| Task                               | Subtasks                                      |
+| ---------------------------------- | --------------------------------------------- |
+| **1. Taking notes from a lecture** | Search for a way to create a note document    |
+|                                    | Take notes                                    |
+|                                    | Save done work                                |
 
 
-| Task                          | Subtasks                                |
-| ----------------------------- | --------------------------------------- |
-| **1. Booking a train ticket** | Select departure and destination cities |
-|                               | Choose travel date and time             |
-|                               | Pick a seat (if applicable)             |
-|                               | Confirm booking and make payment        |
+| Task                                   | Subtasks                                |
+| ------------------------------------   | --------------------------------------- |
+| **2. Generate a quiz from a document** | Upload a document                       |
+|                                        | Generate a quiz                         |
+|                                        | Answer quiz (Choosing options)          |
+|                                        | Get feedback                            |
 
 
 #### Results
 
-Task: [This is the task]
+Task: 1. Taking notes from a lecture  
+>   A user wants to take notes from a lecture
 
 | Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
 | ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
-| 1      | [Step 1 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 1]              |     |
-| 2      | [Step 2 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 2]              |     |
-| 3      | [Step 3 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
-| ...    | [Further steps]        | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestions]               |     |
+| 1 | Create a new Document to write notes | [Yes] | It is not very obvious          | [Yes] |  | [Yes] | The option to create could be easier to find |     |
+| 2 | Write down notes                     | [Yes] |                                 | [Yes] |  | [Yes] |                                              |     |
+| 3 | Save done work                       | [Yes] | Progress is saved automatically | [Yes] |  | [Yes] |                                              |     |
 
+Task: 2. Generate a quiz from a document  
+>   A user wants to generate a quiz from a slideshow to test his skills
 
-
+| Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
+| ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
+| 1 | Upload a .pdf containing the a study topic | [Yes] |         | [No] | There are multiple ways to do it and it gets confusing  | [Yes] | Reducing number of paths to the same outcome |     |
+| 2 | Generate a quiz | [No] | Gets confusing with the requirement of `flashcards`  | [Yes] |  | [Yes] |                                              |     |
+| 3 | Answer a question from a quiz | [Yes] |   | [Yes] |  | [Yes] |                                              |     |
+| 4 | Get answer feedback | [Yes] |  | [Yes] |  | [Yes] | Flow is a little confusing and requires extra input / was expecting final report                                             |     |
 ---
 
 # B.2. Users
