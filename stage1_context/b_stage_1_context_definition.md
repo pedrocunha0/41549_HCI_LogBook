@@ -103,6 +103,11 @@ Task: 2. Generate a quiz from a document
 | 2 | Generate a quiz | [No] | Gets confusing with the requirement of `flashcards`  | [Yes] |  | [Yes] |                                              |     |
 | 3 | Answer a question from a quiz | [Yes] |   | [Yes] |  | [Yes] |                                              |     |
 | 4 | Get answer feedback | [Yes] |  | [Yes] |  | [Yes] | Flow is a little confusing and requires extra input / was expecting final report                                             |     |
+
+## B.1c. Overall Analysis
+
+[Here, you should summarize the main findings for the competitor panorama, listing key points that are valuable to inform the design of your solution, and also make an HCI SWOT analysis for the main competitor, taking into consideration what you learned from the heuristic evaluatio, cognitive walkthrough, online reviews, user feedback, etc.]
+
 ---
 
 # B.2. Users
