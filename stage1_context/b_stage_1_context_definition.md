@@ -182,25 +182,35 @@ The questions were:
 ### Interview List 
 | Date       | Participant / Role | Key Insights                                                    | Link to Notes                |     |
 | ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- | --- |
-| 27-02-2025 | Bob / student      | Does most things on paper and would require a complete solution | [📄 Notes](interview-Bob.md) |     |
-| 27-02-2025 | Robert/ student    | Uses class materials and chagpt and would require a good organization of the material |  [📄 Notes](interview-Robert.md) |     |
+| 27-02-2025 | Bob / student      | Does most things on paper and would require a complete solution | [📄 Notes](interviews/interview-Bob.md) |     |
+| 27-02-2025 | Robert / student    | Uses class materials and chagpt and would require a good organization of the material |  [📄 Notes](interviews/interview-Robert.md) |     |
+| 27-02-2025 | Thomas / student      | Doesn't like studying and needs insentive | [📄 Notes](interviews/interview-Thomas.md) |     |
 
 ### Common Themes & Patterns 
 
-- **Recurring Problems:** 
-	- Issue 1
-	- Issue 2
-- **Frequently Used Tools:** 
-	- Tool 1
-	- Tool 2
-- **Desired Features / Solutions:** 
-	- Feature 1
-	- Feature 2
+- **Recurring Problems:**  
+	- Disorganization of study materials  
+	- Difficulty concentrating after long study sessions  
+	- Too much content on e-learning, leading to procrastination  
+	- Forgetting tasks and deadlines  
+
+- **Frequently Used Tools:**  
+	- ChatGPT  
+	- YouTube  
+	- Slides and notepad  
+	- E-learning platforms  
+	- Mobile reminders  
+
+- **Desired Features / Solutions:**  
+	- Better organization of study materials  
+	- AI-powered assistance for studying  
+	- Automated scheduling with customizable reminders  
+	- Integration of PDFs and note-taking tools  
+	- Progress tracking with statistics and reports  
 - --- 
 
-
-
 ---
+
 [Back to main Logbook Page](../hci_logbook.md)
 
 ---
