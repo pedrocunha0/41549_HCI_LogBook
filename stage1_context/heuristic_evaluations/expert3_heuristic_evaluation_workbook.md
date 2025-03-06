@@ -107,3 +107,6 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | --------------- | ------------ | -------------- |
 | Something wrong | 3            |                |
 | Another thing   | 4            |                |
+
+
+[back to stage 1 page](../b_stage_1_context_definition.md)

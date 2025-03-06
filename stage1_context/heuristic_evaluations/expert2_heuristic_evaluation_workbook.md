@@ -117,3 +117,5 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
 | Lack of FAQs section | 3  | The interface and its features are not very obvious to get started with; A FAQs page would be very useful |
+
+[back to stage 1 page](../b_stage_1_context_definition.md)

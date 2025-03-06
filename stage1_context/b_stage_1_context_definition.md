@@ -160,6 +160,21 @@ Task: 2. Generate a quiz from a document
 ## B.2a. Method
 
 [What approach was followed to talk with users; what kind of users were considered. What was the goal of the interviews? What were the questions considered?]
+
+We conducted interviews in class and outside questioning our target audience: students. The goal of this interviews was to contextualize ourselves of the opinions and needs of students near us and start to gather information on the best features that a study manager needs to have.
+
+The questions were:
+- How do you currently organize your studies?
+- What tools or methods do you use?
+- What is the biggest challenge in managing your studies?
+- What most affects your productivity?
+- What features should a good study manager have?
+- Would you prefer a more automated system (e.g., schedule suggestions) or a more customizable one?
+- How do you imagine the ideal interface for a study manager?
+- Would you use it more on a computer or on a mobile device?
+- How do you track your study progress?
+- Do you find notifications and reminders useful?
+
 ## B.2b. Results
 
 >	This section tracks all informal user interviews, summarizing key insights and linking to detailed notes for each session. 
@@ -167,8 +182,8 @@ Task: 2. Generate a quiz from a document
 ### Interview List 
 | Date       | Participant / Role | Key Insights                                                    | Link to Notes                |     |
 | ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- | --- |
-| 03-09-2000 | Bob / student      | Does most things on paper and would require a complete solution | [📄 Notes](interview-Bob.md) |     |
-| ...        |                    |                                                                 |                              |     |
+| 27-02-2025 | Bob / student      | Does most things on paper and would require a complete solution | [📄 Notes](interview-Bob.md) |     |
+| 27-02-2025 | Robert/ student    | Uses class materials and chagpt and would require a good organization of the material |  [📄 Notes](interview-Robert.md) |     |
 
 ### Common Themes & Patterns 
 
