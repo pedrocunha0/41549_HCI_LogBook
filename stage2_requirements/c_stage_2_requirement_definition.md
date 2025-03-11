@@ -28,14 +28,14 @@
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name](path/to/photo.jpg)            |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
+| **Photo**        | ![Lucas Almeida](personas/persona2.jpeg)            |
+| **Name**         | [Lucas Almeida]                                |
+| **Age**          | [17]                                 |
+| **Occupation**   | [High-school student]                           |
+| **Location**     | [Rio de Janeiro, Brasil ]                               |
+| **Goals**        | [Improve academic performance by developing routines]           |
+| **Pain Points**  | [lack of focus and stress from last minute studying]              |
+| **Motivation**   | [If I had an app that reminded me to study at the right time and kept me motivated in a fun way, I would definitely be more productive.]                |
 | **Full Profile** | [📄 Read More](personas/persona2_template.md) |
 
 ---
