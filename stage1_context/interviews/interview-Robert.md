@@ -3,53 +3,54 @@
 > 	The questions included in this file are just possibilities. The questions you do should be adapted to your case, where needed.
 
 ## Interview Details 
-- **Date:** [YYYY-MM-DD] 
-- **Interviewer:** [Your Name] 
-- **Participant:** [Optional: Anonymous or Role] 
-- **Context:** [Where and how the interview was conducted] 
+- **Date:** [2025-02-27] 
+- **Interviewer:** Theo Paschoa
+- **Participant:** Bob
+- **Context:** Interview conducted in class
 - --- 
-## Task Overview 
+## Task Overview  
 
- **What task is the user trying to accomplish?** 
-[Describe the task in the user’s words] 
+**What task is the user trying to accomplish?**  
+Organizing studies and avoiding forgetting tasks.  
 
-**What are the main pain points or difficulties they experience?** 
-- [Challenge 1] 
-- [Challenge 2] 
-- [Challenge 3] 
+**What are the main pain points or difficulties they experience?**  
+- No organization in their studies.  
+- Frequently forgets tasks.  
+- Struggles with concentration.  
 
-**Are there any workarounds or strategies they currently use?** 
-- [List of workarounds] 
+**Are there any workarounds or strategies they currently use?**  
+- Does not use any tools or planner.  
 
----- 
-## Tools & Environment 
-**What tools or methods does the user currently rely on?** 
-- [Tool 1] 
-- [Tool 2] 
-- [Any manual processes] 
+---  
 
-**Are there any frustrations or limitations with these tools?** 
-- [Limitation 1] 
-- [Limitation 2] 
+## Tools & Environment  
 
-**What features do they wish these tools had?** 
-- [Feature 1] 
-- [Feature 2] 
---- 
-## Expectations for a Novel Approach 
+**What tools or methods does the user currently rely on?**  
+- None.  
 
-**What would an ideal solution look like for them?** 
-- [Key expectations] 
+**Are there any frustrations or limitations with these tools?**  
+- Memory issues and distractions make study management difficult.  
 
-**What concerns or hesitations do they have about new approaches?** 
-- [Concern 1] 
-- [Concern 2] 
+**What features do they wish these tools had?**  
+- Integrated planner with activity deadlines.  
+- Notifications to remind them of tasks.  
 
-**How do they measure success for completing the task efficiently?** 
-- [Efficiency metric or criteria] 
+---  
 
---- 
-## Additional Observations 
-[Free space for any other relevant notes, behaviors, or comments]
+## Expectations for a Novel Approach  
+
+**What would an ideal solution look like for them?**  
+- An automatic study system that allows customization.  
+
+**What concerns or hesitations do they have about new approaches?**  
+- It might be too rigid and not adapt to individual needs.  
+
+**How do they measure success for completing the task efficiently?**  
+- Improved organization and completing tasks on time.  
+
+---  
+
+## Additional Observations  
+The user finds reminders and notifications useful, preferring to receive alerts about three days before important activities.  
 
 [back to stage 1 page](../b_stage_1_context_definition.md)

@@ -81,18 +81,18 @@ Issues were classified on a **1 to 5 severity scale**:
 | **Issue**                                      | **Expert 1** | **Expert 2** | **Expert 3** | **Recommendation**                                    |
 |------------------------------------------------|-------------|-------------|-------------|------------------------------------------------------|
 | Slow synchronization between devices           | 4            |           |           | Improve synchronization speed for real-time updates |
-| Website loading is a little slow               |            | 1           |           | Optimize website performance for faster loading     |
-| Lack of a visible loading indicator            |            |           | 3           | Add a clear visual indicator for loading states     |
-| Slowness and crashes                           |            |           | 5           | Optimize performance to prevent failures            |
+| Website loading is a little slow               | 2           | 1           |           | Optimize website performance for faster loading     |
+| Lack of a visible loading indicator            | 3           |           | 3           | Add a clear visual indicator for loading states     |
+| Slowness and crashes                           | 5           |           | 5           | Optimize performance to prevent failures            |
 | Introduction of unnecessary or confusing features | 3        |           |           | Conduct user research before adding new features    |
-| Side bar options are confusing                 |            | 2           |           | Simplify the sidebar and remove unnecessary options |
-| Unclear terminology                            |            |           | 3           | Use more direct and accessible language             |
-| It is not possible to close a document edit    |            | 1           |           | Add a close button for document editing             |
-| Lack of home button                            |            | 3           |           | Implement a visible home button for navigation      |
-| Settings option is not in an expected location |           | 2           |           | Move settings to a more intuitive location          |
+| Side bar options are confusing                 | 2           | 2           |           | Simplify the sidebar and remove unnecessary options |
+| Unclear terminology                            | 3           |           | 3           | Use more direct and accessible language             |
+| It is not possible to close a document edit    | 2           | 1           |           | Add a close button for document editing             |
+| Lack of home button                            | 3           | 3           |           | Implement a visible home button for navigation      |
+| Settings option is not in an expected location | 2          | 2           |           | Move settings to a more intuitive location          |
 | New features adding complexity                 | 3            |           |           | Keep interface simple and evaluate feature necessity |
-| Overwhelming number of options                 |            | 2           |           | Reduce options or categorize them better           |
-| Outdated design                                |            |            | 3          | Update interface for a more modern look            |
+| Overwhelming number of options                 | 3           | 2           |           | Reduce options or categorize them better           |
+| Outdated design                                | 3           |            | 3          | Update interface for a more modern look            |
 
 
 

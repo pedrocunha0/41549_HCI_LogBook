@@ -4,7 +4,7 @@
 
 ## Interview Details 
 - **Date:** [2025-02-27] 
-- **Interviewer:** Pedro Cunha 
+- **Interviewer:** Pedro Cunha
 - **Participant:** Bob
 - **Context:** Interview conducted in class
 - --- 
