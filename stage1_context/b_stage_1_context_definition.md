@@ -90,9 +90,6 @@ Issues were classified on a **1 to 5 severity scale**:
 | It is not possible to close a document edit    |            | 1           |           | Add a close button for document editing             |
 | Lack of home button                            |            | 3           |           | Implement a visible home button for navigation      |
 | Settings option is not in an expected location |           | 2           |           | Move settings to a more intuitive location          |
-| None (no issue reported)                       |            |           | 1           | No action needed                                    |
-| Something wrong                                |            | 3           |           | Investigate and resolve the reported issue          |
-| Another thing                                  |            | 4           |           | Address the usability problem identified            |
 | New features adding complexity                 | 3            |           |           | Keep interface simple and evaluate feature necessity |
 | Overwhelming number of options                 |            | 2           |           | Reduce options or categorize them better           |
 | Outdated design                                |            |            | 3          | Update interface for a more modern look            |
