@@ -80,8 +80,23 @@
 
 ## C.1. Functional requirements
 
+The system should allow users to input subjects, available study times, and difficulties to generate a personalized study schedule.
+The app should send reminder notifications when it's time to study.
+There should be a focus mode that blocks distracting apps during study sessions.
+The system should provide interactive flashcards, automatically generated based on the user's content.
+The app should include quick challenges (exercises) to reinforce learning and keep users motivated. These exercises will be linked to a teacher who can correct them.
+Users should be able to write short summaries within the app, and the system should suggest improvements and highlight key points. The AI will assist with providing feedback on the summaries, helping the user improve their writing.
+The study schedule should be adaptive, adjusting automatically as users study or skip sessions.
+
 
 ## C.2. Non-functional requirements
+
+The app should have an intuitive interface, ensuring that users can organize their studies effortlessly.
+Notifications should be personalized, avoiding intrusiveness while keeping users on track.
+The system should be able to analyze summaries and suggest improvements using NLP (Natural Language Processing) techniques.
+The schedule adaptation should be automated, preventing study overload or backlog.
+The exercise correction should be integrated with the teacher's feedback system, ensuring that the user receives timely and constructive comments on their performance.
+The AI-driven summary feedback should be accurate, providing insights to improve the user's understanding and writing.
 
 
 ---
