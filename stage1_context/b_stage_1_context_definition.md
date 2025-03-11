@@ -78,11 +78,25 @@ Issues were classified on a **1 to 5 severity scale**:
 
 >	After the individual analysis by each expert, all results should be gathered in a consensus table. If an expert has not found any of the problems found by other experts, they should analyse it, at this point, and give it a severity.
 
-| **Issue**       | **Expert 1** | Expert 2 | Expert 3 | Recommendations                             |
-| --------------- | ------------ | -------- | -------- | ------------------------------------------- |
-| Something wrong | 3            | 1        | 0        | Something could be done to the button to... |
-| Another thing   | 4            | 3        | 4        | Other thing to recommend                    |
-| ...             |              |          |          |                                             |
+| **Issue**                                      | **Expert 1** | **Expert 2** | **Expert 3** | **Recommendation**                                    |
+|------------------------------------------------|-------------|-------------|-------------|------------------------------------------------------|
+| Slow synchronization between devices           | 4            |           |           | Improve synchronization speed for real-time updates |
+| Website loading is a little slow               |            | 1           |           | Optimize website performance for faster loading     |
+| Lack of a visible loading indicator            |            |           | 3           | Add a clear visual indicator for loading states     |
+| Slowness and crashes                           |            |           | 5           | Optimize performance to prevent failures            |
+| Introduction of unnecessary or confusing features | 3        |           |           | Conduct user research before adding new features    |
+| Side bar options are confusing                 |            | 2           |           | Simplify the sidebar and remove unnecessary options |
+| Unclear terminology                            |            |           | 3           | Use more direct and accessible language             |
+| It is not possible to close a document edit    |            | 1           |           | Add a close button for document editing             |
+| Lack of home button                            |            | 3           |           | Implement a visible home button for navigation      |
+| Settings option is not in an expected location |           | 2           |           | Move settings to a more intuitive location          |
+| None (no issue reported)                       |            |           | 1           | No action needed                                    |
+| Something wrong                                |            | 3           |           | Investigate and resolve the reported issue          |
+| Another thing                                  |            | 4           |           | Address the usability problem identified            |
+| New features adding complexity                 | 3            |           |           | Keep interface simple and evaluate feature necessity |
+| Overwhelming number of options                 |            | 2           |           | Reduce options or categorize them better           |
+| Outdated design                                |            |            | 3          | Update interface for a more modern look            |
+
 
 
 
