@@ -57,7 +57,19 @@
 
 [As she continued her tour, Maria **bookmarked** her favorite pieces, leaving notes about what she found intriguing. The system, recognizing her engagement, suggested another exhibit nearby featuring similar themes. Midway through her visit, she received a pop-up asking if she’d like a **short quiz** on the artworks she had explored, offering an interactive way to reflect on what she had learned.  ]
 
----
+## Scenario 2: Lucas Trying to Overcome Procrastination
+
+[Lucas had always wanted to study consistently but struggled with procrastination. He would get distracted by social media and games, leaving things to the last minute. Today, he decided to try a study management app that promised to help him stay organized and focused.]
+
+[When he opened the app for the first time, Lucas answered a few questions about the subjects he needed to study, his available time, and his biggest difficulties. The system, understanding his challenges with focus and time management, created a personalized study schedule tailored to his needs.]
+
+[Motivated, Lucas began his first study session. As the study timer started, the app sent him a notification reminding him to start his session. He turned on focus mode, blocking social media apps that usually distracted him.]
+
+[After a 25-minute study block, the app vibrated slightly—a signal that the session was over. A quick challenge popped up on the screen, asking him to solve an exercise based on what he had just studied. Lucas accepted and completed the challenge, earning points for his effort.]
+
+[As he continued using the app, Lucas bookmarked key concepts he found difficult, leaving short notes for future review. The system, recognizing his engagement, suggested additional exercises and adjusted his study plan accordingly.]
+
+[Halfway through his study session, the app offered him a short quiz to test his knowledge and help reinforce the material. Lucas took the quiz, reflecting on his progress and feeling more confident in his studies.]
 
 
 # Requirements
