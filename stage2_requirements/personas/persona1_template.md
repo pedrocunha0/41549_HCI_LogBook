@@ -25,4 +25,4 @@ Sofia realizes that she needs to try other study methods so she can get better g
 ## Motivation  
 *"Why do they engage with this product or service?"*  
 
-A friend at university shows Sofia how she is using an app to organize her own study and she gets very exciting to try it herlself.  
+There must be a way to use technology to my advantage and maky my study more efficient and productive.  
