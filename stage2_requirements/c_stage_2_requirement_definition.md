@@ -9,18 +9,18 @@
 
 # Personas
 
-## Persona: [Persona Name] 
+## Persona: Sofia Sousa
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name\|100](personas/persona1.jpeg)  |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
+| **Photo**        | ![Persona Name\|100](personas/persona1.png)   |
+| **Name**         | Sofia Sousa                                   |
+| **Age**          | 19                                            |
+| **Occupation**   | University Student                            |
+| **Location**     | Lisbon, Portugal                              |
+| **Goals**        | Be the best in her class                      |
+| **Pain Points**  | Her current study methods are causing her some grades and time problems  |
+| **Motivation**   | There must be a way to use technology in my study |
 | **Full Profile** | [📄 Read More](personas/persona1_template.md) |
 
 ---
@@ -47,15 +47,23 @@
 # Scenarios
 
 
-## Scenario 1: Maria goes on a Museum Tour
+## Scenario 1: Sofia wants to use more efficient study methods
 
-[Maria had always loved modern art, but she often found museum visits overwhelming—so many exhibits, so much information, and little guidance on where to start. Today, she was visiting a contemporary art museum that had recently introduced an **interactive guide**.  ]
+Sofia is very competitive in school and always loved studying. She is finding that after she started university her grades are dropping a little, but especially that the time she needs to study is making her daily routing very hard.  
+She decided to use the new app, she discovered from a friend, to make her study more efficient.  
 
-[As she entered the museum, Maria received a notification on her phone, reminding her to launch the app. She opened it and was greeted with a personalized welcome screen. The system, aware of her general interests in **digital media and abstract art**, suggested a self-guided tour tailored to her preferences.  ]
+It is the first day in new semester.
+Her first class of the day is on Biology.  
+The professor began the class by outlining the key dates for the two tests of the class and the deadline for delivery of a final project. Sofia immediately opens the app's calendar and marks these dates.
 
-[Curious, Maria followed the suggested path. As she approached the first painting, the guide vibrated slightly—a prompt that additional content was available. Holding up the guide, she saw an **overlay** appear on the screen, revealing a time-lapse animation of the artist creating the piece. A small **audio clip** played, explaining the artist’s thought process and influences. Maria found this fascinating; it was as if the artwork was coming to life in front of her.  ]
+As the class progresses the professor introduces the first topic on biology.
+Sofia opens a new notes document and writes down some important things. She realizes that she is way quicker writing on her notebook than with a pen and paper.
 
-[As she continued her tour, Maria **bookmarked** her favorite pieces, leaving notes about what she found intriguing. The system, recognizing her engagement, suggested another exhibit nearby featuring similar themes. Midway through her visit, she received a pop-up asking if she’d like a **short quiz** on the artworks she had explored, offering an interactive way to reflect on what she had learned.  ]
+When Sofia gets home she wants to go over the lectured topic.
+The professor made the lecture slides available so she uploads them to the app. The app suggests to generates a quizz using AI. She generates the quizz and takes it to address what she learned.  
+Sofia gets instant feedback on her quizz answers and bookmarks topics she realizes she needs to go over again.
+
+Sofia feels very confident with what she learned using this new study method. She also ends up finishing her study much faster, so she has time to watch her favorite tv-show which boosts her motivation.  
 
 ## Scenario 2: Lucas Trying to Overcome Procrastination
 
