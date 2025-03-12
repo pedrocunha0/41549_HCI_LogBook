@@ -1,21 +1,28 @@
-# ![Persona Name](personas/persona1.jpeg)  
-**Name:** [Persona Name]  
-**Age:** [Persona Age]  
-**Occupation:** [Job Title or Role]  
-**Location:** [City, Country]  
+# ![Persona Name](persona1.png)  
+**Name:** Sofia Sousa  
+**Age:** 19  
+**Occupation:** University Student  
+**Location:** Lisboa, Portugal  
 
 ## Background  
-[Describe the persona's background, including their education, work experience, and any relevant personal history. This should be written as a short, engaging narrative that helps to contextualize the persona.]  
+
+Sofia has always been a very competitive and exemplary student. From an early age she showed a great passion for studying and keeping things in her life very well planned and organized. She got accepted into university to study medicine.
 
 ## Daily Life  
-[Describe a typical day in their life. What do they do from morning to evening? How do they interact with technology, products, or services? What challenges do they face?]  
+
+On a typical Sofia wakes up early, has breakfast and takes the bus to school. She usually takes advantage of the time on the bus to review the notes she prepared for the classes she is having on the day. After classes and when she gets home she will do her assigned homework and recap what she learned on the day. Sofia will also go over the topics that will be lectured next day so she can be more prepared.
 
 ## Goals & Needs  
-[Explain what the persona wants to achieve in their personal or professional life. What are their aspirations? What problems are they trying to solve?]  
+
+Sofia aims to maintain the same status she has always had throughout her student life of being the best in her class.
+Even though Sofia is having some success she is struggling to keep the same standards she had in her highschool days. 
 
 ## Pain Points & Challenges  
-[Describe the main frustrations, obstacles, or inefficiencies they encounter related to the product or service you are designing for.]  
+
+Her routine and very analog study methods are comsuming most of her time.
+Sofia realizes that she needs to try other study methods so she can get better grades and make her routine more efficient.  
 
 ## Motivation  
 *"Why do they engage with this product or service?"*  
-[Summarize their core motivation in a compelling way. This could be a short paragraph or even a strong, direct quote that captures their drive.]  
+
+A friend at university shows Sofia how she is using an app to organize her own study and she gets very exciting to try it herlself.  
