@@ -1,0 +1,92 @@
+✅ Tasks
+Sessão de Estudo - Biologia
+
+Criar sessão de estudo da disciplina Biologia
+
+Selecionar o Tema 2
+
+Definir tempo de 50 minutos
+
+Ativar o Focus Mode
+
+Iniciar sessão
+
+Ao final: Encerrar sessão, responder aos quizes, revisar conteúdo e fechar sessão
+
+
+Anotação de Exame - EM NOTAS
+
+Registrar que o exame de AC2 será no dia 20/05, conforme informado pelo professor em aula
+
+Salvar nota
+
+
+Adicionar Material - Biologia
+
+Apagar a pasta já criada
+
+Criar pasta chamada Biologia
+
+Acessar a pasta Biologia
+
+Adicionar material com o título "Biologia"
+
+
+Calendário - Evento de Teste
+
+Acessar o calendário
+
+Selecionar o dia 28/06
+
+Adicionar evento:
+
+Título: Teste de Biologia
+
+Horário: das 14:00 às 17:00
+
+
+NOTA -» não sabe pra onde a nota vai quando salva
+Nota -> mostrar notificação a confirmar que foi salva
+
+Nota- popup de salvar e voltar pra home
+
+notas e materiais ligados a disciplinas. 
+
+estatísticas especificas por disciplina depois da global
+
+separar navegação da pergunta durante os quizes 
+
+colocar anterior e próxima nas perguntas
+
+mostrar caminho da nota,
+
+mostrar notas e poder editar
+
+em materiais dentro das pastas criar algo como "cartas" porque há um bloco enorme sem informação,
+
+poder especificar o que é pdf o que é imagem.
+
+no calendário colocar o dia ao criar evento
+
+trocar excluir por apagar
+
+colocar um x e um tracinho para editar ou apagar no calendario
+
+disciplinas na dashboard 
+
+overall opinion:
+1- 3
+2- 5
+3- 1
+4- 5
+5- 2
+6- 5
+7- 1
+8- 5
+9- 1
+10- 5 
+
+comments: 
+
+
+
