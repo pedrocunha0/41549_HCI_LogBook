@@ -52,7 +52,7 @@ Nota- popup de salvar e voltar pra home
 
 notas e materiais ligados a disciplinas. 
 
-estatísticas especificas por disciplina depois da global
+estatísticas especificas por disciplina depois da global FEITO
 
 separar navegação da pergunta durante os quizes 
 
