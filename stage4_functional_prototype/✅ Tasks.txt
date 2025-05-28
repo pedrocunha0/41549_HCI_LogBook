@@ -62,9 +62,9 @@ mostrar caminho da nota,
 
 mostrar notas e poder editar
 
-em materiais dentro das pastas criar algo como "cartas" porque há um bloco enorme sem informação,
+em materiais dentro das pastas criar algo como "cartas" porque há um bloco enorme sem informação, FEITO
 
-poder especificar o que é pdf o que é imagem.
+poder especificar o que é pdf o que é imagem. FEITO
 
 no calendário colocar o dia ao criar evento FEITO
 
