@@ -72,7 +72,7 @@ trocar excluir por apagar FEITO
 
 colocar um x e um tracinho para editar ou apagar no calendario FEITO
 
-disciplinas na dashboard 
+disciplinas na dashboard FEITO
 
 overall opinion:
 1- 3
